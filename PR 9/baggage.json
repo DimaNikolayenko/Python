@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Ivanov",
+        "items": 3,
+        "weight": 12.5
+    },
+    {
+        "name": "Petrenko",
+        "items": 1,
+        "weight": 4.2
+    },
+    {
+        "name": "Shevchenko",
+        "items": 4,
+        "weight": 30.0
+    },
+    {
+        "name": "Melnyk",
+        "items": 2,
+        "weight": 6.0
+    },
+    {
+        "name": "Koval",
+        "items": 5,
+        "weight": 2.8
+    },
+    {
+        "name": "Tkachenko",
+        "items": 3,
+        "weight": 26.0
+    },
+    {
+        "name": "Kravets",
+        "items": 2,
+        "weight": 24.9
+    },
+    {
+        "name": "Lysenko",
+        "items": 3,
+        "weight": 3.5
+    },
+    {
+        "name": "Hrytsenko",
+        "items": 4,
+        "weight": 40.0
+    }
+]

@@ -1,0 +1,15 @@
+{
+    "more_than_two_items": [
+        "Ivanov",
+        "Shevchenko",
+        "Koval",
+        "Tkachenko",
+        "Lysenko",
+        "Hrytsenko"
+    ],
+    "weight_categories": {
+        "<5kg": 3,
+        "5-25kg": 3,
+        ">25kg": 3
+    }
+}
